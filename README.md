@@ -128,7 +128,8 @@ strategies
 - Bulk Purchase Savings
 - Performance Heatmaps
 
-! [Vendor Performance Dashboard] (images/dashboard.png)
+ ![vendor performance analysis](images/dashboard.png)
+
 
 -----
 
@@ -175,3 +176,4 @@ Data Analyst
 Email: Lakshaysharma406@gmail.com
 
   
+
