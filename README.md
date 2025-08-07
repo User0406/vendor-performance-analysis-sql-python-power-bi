@@ -127,8 +127,7 @@ strategies
 - Inventory Turnover
 - Bulk Purchase Savings
 - Performance Heatmaps
-
- ![vendor performance analysis](images/dashboard.png)
+ ![vendor performance analysis](images/dashboard_screenshot.png)
 
 
 -----
@@ -176,4 +175,5 @@ Data Analyst
 Email: Lakshaysharma406@gmail.com
 
   
+
 
